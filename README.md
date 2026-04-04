@@ -1,4 +1,3 @@
-# Felix Melanson
 ## Projects
 <table>
 <tr>
