@@ -35,16 +35,12 @@
 
 ### 🌐 Frontend & Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,threejs,vue,tailwind" />
-  <img width="48" />
-  <img src="https://skillicons.dev/icons?i=nodejs,firebase,redis,vercel" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,threejs,vue,tailwind,blank,nodejs,firebase,redis,vercel" />
 </p>
 
 ### 🛠 Tools & Research
 <p>
-  <img src="https://skillicons.dev/icons?i=git,vscode,github,bash,linux" />
-  <img width="48" />
-  <img src="https://skillicons.dev/icons?i=anaconda,opencv,raspberrypi,obsidian,pytorch" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,github,bash,linux,blank,anaconda,opencv,raspberrypi,obsidian,pytorch" />
 </p>
 
 ---
